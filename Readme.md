@@ -1,6 +1,7 @@
 # Perfect Fit
 
-![Perfect Fit Logo]('Perfect Fit/Assets.xcassets/Images/PerfectFitLogo.png')
+<img width="348" alt="PerfectFitLogo" src="https://github.com/user-attachments/assets/abaebed9-3082-4b5a-8c12-223bd8f68164">
+
 
 ## Overview
 
@@ -37,13 +38,13 @@
 
 ![Simulator Screenshot - iPhone 15 Pro - 2024-08-15 at 19 04 41](https://github.com/user-attachments/assets/abf2d57f-d022-40e0-8581-6c336bda67c7)
 
-*Product Detail Screen displaying detailed product information.*
+*Information that you search, dispalys front.*
 
-**5. Home Screen (New Item Added at last)**
+**5. Home Screen (Updated)**
 
 ![Simulator Screenshot - iPhone 15 Pro - 2024-08-15 at 19 03 16](https://github.com/user-attachments/assets/70dbe8d8-5252-47f8-b1b6-678d14560563)
 
-*Product Detail Screen displaying detailed product information.*
+*New Item Added At Last of the Tiles in the Home Screen.*
 
 ## Installation
 
