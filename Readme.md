@@ -15,14 +15,22 @@
 
 ## Screenshots
 
-![Home Screen]
+**Home Screen**
+
 ![Simulator Screenshot - iPhone 15 Pro - 2024-08-15 at 19 03 07](https://github.com/user-attachments/assets/cf7c2904-8cf9-4838-be51-5fbab6d923de)
+
 *Home Screen showcasing product grid and search functionality.*
 
-![Add Product Screen]('Perfect Fit/Assets.xcassets/Images/Screenshots/Simulator Screenshot - iPhone 15 Pro - 2024-08-15 at 19.04.03.png')
+**Add Product Screen**
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-08-15 at 19 04 03](https://github.com/user-attachments/assets/881f4371-674c-4cc3-95d1-e08d5165ff1b)
+
 *Add Product Screen allowing users to input product details.*
 
-![Product Detail Screen]('Perfect Fit/Assets.xcassets/Images/Screenshots/Simulator Screenshot - iPhone 15 Pro - 2024-08-15 at 19.03.16.png')
+**Product Detail Screen**
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-08-15 at 19 03 16](https://github.com/user-attachments/assets/70dbe8d8-5252-47f8-b1b6-678d14560563)
+
 *Product Detail Screen displaying detailed product information.*
 
 ## Installation
