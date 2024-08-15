@@ -50,7 +50,7 @@
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/thecodemonster1/perfect-fit.git
+    git clone https://github.com/thecodemonster1/Perfect-Fit.git
     cd perfect-fit
     ```
 
@@ -97,4 +97,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Mohamed Amhar** - [LinkedIn]('https://www.linkedin.com/in/thecodemonster1')
 
-Project Link: [https://github.com/thecodemonster1/perfect-fit](https://github.com/thecodemonster1/perfect-fit)
+Project Link: [https://github.com/thecodemonster1/Perfect-Fit.git](https://github.com/thecodemonster1/Perfect-Fit.git)
