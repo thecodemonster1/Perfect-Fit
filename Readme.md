@@ -42,7 +42,7 @@
 
 **5. Home Screen (Updated)**
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-08-15 at 19 03 16](https://github.com/user-attachments/assets/70dbe8d8-5252-47f8-b1b6-678d14560563)
+![Simulator Screenshot - iPhone 15 Pro - 2024-08-15 at 19 04 10](https://github.com/user-attachments/assets/5ff6c344-a4e4-45ce-97a7-d372c5a7b80a)
 
 *New Item Added At Last of the Tiles in the Home Screen.*
 
