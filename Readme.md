@@ -16,7 +16,7 @@
 ## Screenshots
 
 ![Home Screen]
-![Uploading Simulator Screenshot - iPhone 15 Pro - 2024-08-15 at 19.03.07.png…]()
+![Simulator Screenshot - iPhone 15 Pro - 2024-08-15 at 19 03 07](https://github.com/user-attachments/assets/cf7c2904-8cf9-4838-be51-5fbab6d923de)
 *Home Screen showcasing product grid and search functionality.*
 
 ![Add Product Screen]('Perfect Fit/Assets.xcassets/Images/Screenshots/Simulator Screenshot - iPhone 15 Pro - 2024-08-15 at 19.04.03.png')
